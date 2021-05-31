@@ -1,0 +1,16 @@
+
+
+Name      : Jay.A.athavale.
+Standard  : FY Bsc.IT
+Division  : A
+Roll No.  :161005
+
+IMP note:
+1) for executing open index.html
+2) while executing please keep your internet connection on.
+3) Their is NO partner(other member) for the project.
+
+review:
+
+This website is based on fitness club Named AJ Fitness.
+This website is for advertising the Fitness club.
